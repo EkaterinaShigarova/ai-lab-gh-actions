@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+assets/
+site/
+downloaded-artifact/
+artifacts/
+*.joblib
